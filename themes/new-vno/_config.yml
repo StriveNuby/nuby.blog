@@ -1,0 +1,36 @@
+menu:
+  #Archives: /archives
+rss: /atom.xml
+description:
+social:
+  weibo:
+  github: https://github.com/StriveNuby
+  stack_overflow:
+  facebook:
+  twitter:
+  google_plus:
+
+page_comment: true
+logo: /images/avatar.jpg
+background:
+  cover: /images/background-cover.jpeg
+  color: cover-purple
+
+archive_date_format: MMM DD
+fancybox: true
+
+duoshuo_shortname:
+
+google_analytics:
+baidu_tongji:
+favicon: /images/avatar-small.png
+
+#mathjax
+mathjax: true
+
+# 'Read more' button
+excerpt_link: 继续阅读
+
+# Footer message
+site_license:
+theme_message:
